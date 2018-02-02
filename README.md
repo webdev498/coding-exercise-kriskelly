@@ -1,3 +1,15 @@
+Usage
+=====
+
+Running the program
+-------------------
+* `bundle install`
+* `ruby main.rb ./sample-input.txt` *OR* `cat ./sample-input.txt | ruby main.rb`
+
+Tests
+-----
+* `rspec ranker_test.rb`
+
 The Problem
 ===========
 We want you to create a command-line application that will calculate the
